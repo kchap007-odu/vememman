@@ -203,4 +203,3 @@ Page Size    # of Pages    Algorithm    Fault Percentage
 - LRU and FIFO have consistently similar performance
 
 - FIFO is easier to implement and requires less overhead, making it a good choice.
-# vememman
